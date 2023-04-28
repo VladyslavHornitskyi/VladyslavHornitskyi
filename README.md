@@ -19,8 +19,8 @@ Coding
 
 [📧 Email](vladyslavhornitskyi@gmail.com)
 
-☎️ 0479-40-04-65
-
 [Git](https://github.com/VladyslavHornitskyi)
 
-![Vlad](./img/Vladyslav.jpeg)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VladyslavHornitskyi&theme=radical)
+
+![Vlad](./img/Vlad.jpg)
