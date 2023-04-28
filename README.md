@@ -1,26 +1,21 @@
 # Introduction ℹ️ 💻
 
-My name is Vladyslav Hornitskyi. I have relocated to Belgium and I am currently
-living in Brussels. 🇧🇪
-
-I started to learn web development at "Huck Your Future".
+I am learning web development at "Huck Your Future".
 
 You will find soon some interesting projects on this account.
 
-## Hobies : 🧭
+## My coursework includes: 🛠️
 
-Sport
-
-Traveling
-
-Coding
-
-## Contacting information : 🖊️
-
-[📧 Email](vladyslavhornitskyi@gmail.com)
-
-[Git](https://github.com/VladyslavHornitskyi)
+- Workflows
+- Agile Development
+- HTML and CSS
+- Welcome to JS
+- Inside JS
+- Behavior, Strategy and Implementation
+- Separation of Concerns
+- Asynchronous Programming
+- Component Based Design
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VladyslavHornitskyi&theme=radical)
 
-![Vlad](./img/Vlad.jpg)
+## 🖊️ You can contact with me via [Email](vladyslavhornitskyi@gmail.com)
