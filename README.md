@@ -23,4 +23,4 @@ Coding
 
 [Git](https://github.com/VladyslavHornitskyi)
 
-![](./img/Vladyslav.jpeg)
+![Vlad](./img/Vladyslav.jpeg)
