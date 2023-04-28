@@ -18,4 +18,4 @@ You will find soon some interesting projects on this account.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VladyslavHornitskyi&theme=radical)
 
-## 🖊️ You can contact with me via [Email](vladyslavhornitskyi@gmail.com)
+🖊️ You can contact with me via [Email](vladyslavhornitskyi@gmail.com)
